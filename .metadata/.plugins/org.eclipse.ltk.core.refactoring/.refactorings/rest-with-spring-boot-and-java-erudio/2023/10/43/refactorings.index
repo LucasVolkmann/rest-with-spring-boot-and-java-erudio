@@ -1,4 +1,6 @@
-1698152226936	Rename type 'RestWithSpringBootAndJavaErudioApplication'
-1698152228221	Rename type 'RestWithSpringBootAndJavaErudioApplicationTests'
-1698152244674	Rename resource 'application.properties'
-1698152289597	Delete elements
+1698239072335	Delete element
+1698239080941	Rename type 'GreetingController'
+1698262238977	Copy package
+1698262250130	Delete element
+1698323186058	Rename package 'br.com.erudio.services'
+1698323201489	Rename type 'MathService'
