@@ -8,7 +8,6 @@ import br.com.erudio.model.Person;
 
 public class MockPerson {
 
-
     public Person mockEntity() {
         return mockEntity(0);
     }
